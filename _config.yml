@@ -1,6 +1,6 @@
 # Site settings
 title: Adam Fokken
-email: :
+email: adam.fokken@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my github blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
